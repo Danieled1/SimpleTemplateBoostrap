@@ -1,0 +1,12 @@
+@media only screen and (max-width:600px){
+    main.first-view{
+        background-color: gray;
+    }
+    main img{
+        width:100%;
+        padding: 25px 10px 15px;
+    }
+}
+/* @media only screen and(min-width:650px){
+    
+} */
